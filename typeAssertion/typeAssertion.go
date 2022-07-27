@@ -8,6 +8,8 @@ func random() interface{} {
 
 func main() {
 	 result := random()
+
+	 //type assertion below
 	//  resultString := result.(string)
 
 	// fmt.Println(resultString)
